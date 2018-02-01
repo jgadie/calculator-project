@@ -1,0 +1,3 @@
+##Calculator Project for Epicodus
+#By Jasmine Gadie and Megan Lee
+#Information on opening...etc...
